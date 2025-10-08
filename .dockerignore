@@ -1,0 +1,33 @@
+# Git関連
+.git
+.gitignore
+
+# Python関連
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# Docker関連
+Dockerfile
+docker-compose.yml
+.dockerignore
+
